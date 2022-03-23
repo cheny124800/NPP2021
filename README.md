@@ -1,5 +1,5 @@
 # NPP2021
-This dataset is collected by unmanned aerial vehicles at the nuclear power plants, comprising 300 images with the size of 7000X6000. The images of this dataset include cracks as narrow as 0.05 mm and as wide as 10 mm. The images are sliced into small images (224X224).
+This dataset is collected from the nuclear power plants, comprising 300 images with the size of 7000X6000. The images of this dataset include cracks as narrow as 0.05 mm and as wide as 10 mm. The image es are sliced into patched images (224X224).
 
 This dataset can be freely downloaded for research purposes from:
 
